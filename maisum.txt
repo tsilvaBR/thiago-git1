@@ -1,0 +1,2 @@
+Esse arquivo está sendo modificado sem ser atualizado com Push e Pull, futuramente
+ele vai entrar em CONFLITO, pois ele foi modificado e não atualizado.
