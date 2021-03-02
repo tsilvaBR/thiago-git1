@@ -7,4 +7,6 @@ um novo commit
 e aquela linha é removida.
 
 Esse arquivo está sendo modificado sem ser atualizado com Push e Pull, futuramente
-ele vai entrar em CONFLITO, pois ele foi modificado e não atualizado.
+ele vai entrar em CONFLITO, pois ele foi modificado e não atualizado. 
+Então as informações criadas por último foi colocada depois das criadas primeiro, assim resolvendo o 
+CONFLITO.
