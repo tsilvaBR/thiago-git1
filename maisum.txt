@@ -5,3 +5,4 @@ Mas essa linha causou um bug
 git revert commit id
 um novo commit 
 e aquela linha é removida.
+mas existe o git reset, não tem nada háver com revert.
