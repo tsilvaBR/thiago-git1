@@ -1,0 +1,7 @@
+fez um commit 
++ 1 linha foi adicionado
+Mas essa linha causou um bug 
+
+git revert commit id
+um novo commit 
+e aquela linha é removida.
