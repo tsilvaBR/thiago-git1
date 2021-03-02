@@ -1,2 +1,10 @@
+fez um commit 
++ 1 linha foi adicionado
+Mas essa linha causou um bug 
+
+git revert commit id
+um novo commit 
+e aquela linha é removida.
+
 Esse arquivo está sendo modificado sem ser atualizado com Push e Pull, futuramente
 ele vai entrar em CONFLITO, pois ele foi modificado e não atualizado.
