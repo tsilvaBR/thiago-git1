@@ -1,3 +1,6 @@
 Vamos Trabalhar com Issues.
 colocando alguns palavras erradas;
 caza, xave, geito
+
+Então fazendo a correção:
+casa, chave e jeito.
