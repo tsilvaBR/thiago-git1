@@ -1,1 +1,4 @@
 Soma 2 + 2 = 4,0
+
+Então corrigindo bug:
+Soma 2 + 2 = 4
