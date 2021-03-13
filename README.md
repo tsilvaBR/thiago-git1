@@ -47,5 +47,7 @@ Se possível forneça as informações para diferentes plataformas, exemplo Wind
 ## Meta
 
 Seu nome - [@seulinkdin](https://linkdin.com/seulinkdin) - sseuemail@gmail.com
+
 Distribuindo sobre a licença. Veja `LICENÇA` para mais informações.
+
 [https://github.com/seuusuario/seuprojeto](https://github.com/seuusuario)
